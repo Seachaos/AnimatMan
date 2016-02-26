@@ -1,0 +1,15 @@
+body{
+	background:#CCC;
+}
+
+@for $i from 1 through 9{
+	.images#{$i}{
+		background-image: url( './images/images000#{$i}.png' );
+	}
+}
+
+@for $i from 10 through 60{
+	.images#{$i}{
+		background-image: url( './images/images00#{$i}.png' );
+	}
+}
