@@ -17,7 +17,14 @@ gulp.task('compass',function(){
       style: 'compact' //nested, expanded, compact, compressed
         }))
         .pipe(gulp.dest('./app/css/'));
-}); 
+});
+
+gulp.task('copy_file', function(){
+  gulp.src(
+    '../src/**.js',
+    {base: '../src/'}
+  ).pipe(gulp.dest('./app/js/'));
+})
 
 gulp.task('sprites', function() {
     var spriteOutput;
@@ -44,11 +51,16 @@ gulp.task('webserver', function() {
     }));
 });
 
+// watch files
+gulp.watch('../src/**.js', function(){
+  gulp.run('copy_file');
+});
 gulp.watch('./css_src/**.css', function() {
     gulp.run('sprites');
 });
 gulp.watch('./css_src/**.scss', function() {
-    gulp.run('compass');
+    gulp.run('compass','sprites');
 });
 
-gulp.task('default',['compass', 'sprites', 'webserver']);
+
+gulp.task('default',['copy_file', 'compass', 'sprites', 'webserver']);

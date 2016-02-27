@@ -1,123 +1,243 @@
 body { background: #CCC; }
 
-.images1 { background-image: url("./images/images0001.png"); }
+.images1 { background-image: url("./images/sprite.png");
+    background-position: -0px -75px;
+    background-size: 100px 4500px!important; }
 
-.images2 { background-image: url("./images/images0002.png"); }
+.images2 { background-image: url("./images/sprite.png");
+    background-position: -0px -2250px;
+    background-size: 100px 4500px!important; }
 
-.images3 { background-image: url("./images/images0003.png"); }
+.images3 { background-image: url("./images/sprite.png");
+    background-position: -0px -150px;
+    background-size: 100px 4500px!important; }
 
-.images4 { background-image: url("./images/images0004.png"); }
+.images4 { background-image: url("./images/sprite.png");
+    background-position: -0px -225px;
+    background-size: 100px 4500px!important; }
 
-.images5 { background-image: url("./images/images0005.png"); }
+.images5 { background-image: url("./images/sprite.png");
+    background-position: -0px -300px;
+    background-size: 100px 4500px!important; }
 
-.images6 { background-image: url("./images/images0006.png"); }
+.images6 { background-image: url("./images/sprite.png");
+    background-position: -0px -375px;
+    background-size: 100px 4500px!important; }
 
-.images7 { background-image: url("./images/images0007.png"); }
+.images7 { background-image: url("./images/sprite.png");
+    background-position: -0px -450px;
+    background-size: 100px 4500px!important; }
 
-.images8 { background-image: url("./images/images0008.png"); }
+.images8 { background-image: url("./images/sprite.png");
+    background-position: -0px -525px;
+    background-size: 100px 4500px!important; }
 
-.images9 { background-image: url("./images/images0009.png"); }
+.images9 { background-image: url("./images/sprite.png");
+    background-position: -0px -600px;
+    background-size: 100px 4500px!important; }
 
-.images10 { background-image: url("./images/images0010.png"); }
+.images10 { background-image: url("./images/sprite.png");
+    background-position: -0px -675px;
+    background-size: 100px 4500px!important; }
 
-.images11 { background-image: url("./images/images0011.png"); }
+.images11 { background-image: url("./images/sprite.png");
+    background-position: -0px -750px;
+    background-size: 100px 4500px!important; }
 
-.images12 { background-image: url("./images/images0012.png"); }
+.images12 { background-image: url("./images/sprite.png");
+    background-position: -0px -825px;
+    background-size: 100px 4500px!important; }
 
-.images13 { background-image: url("./images/images0013.png"); }
+.images13 { background-image: url("./images/sprite.png");
+    background-position: -0px -900px;
+    background-size: 100px 4500px!important; }
 
-.images14 { background-image: url("./images/images0014.png"); }
+.images14 { background-image: url("./images/sprite.png");
+    background-position: -0px -975px;
+    background-size: 100px 4500px!important; }
 
-.images15 { background-image: url("./images/images0015.png"); }
+.images15 { background-image: url("./images/sprite.png");
+    background-position: -0px -1050px;
+    background-size: 100px 4500px!important; }
 
-.images16 { background-image: url("./images/images0016.png"); }
+.images16 { background-image: url("./images/sprite.png");
+    background-position: -0px -1125px;
+    background-size: 100px 4500px!important; }
 
-.images17 { background-image: url("./images/images0017.png"); }
+.images17 { background-image: url("./images/sprite.png");
+    background-position: -0px -1200px;
+    background-size: 100px 4500px!important; }
 
-.images18 { background-image: url("./images/images0018.png"); }
+.images18 { background-image: url("./images/sprite.png");
+    background-position: -0px -1275px;
+    background-size: 100px 4500px!important; }
 
-.images19 { background-image: url("./images/images0019.png"); }
+.images19 { background-image: url("./images/sprite.png");
+    background-position: -0px -1350px;
+    background-size: 100px 4500px!important; }
 
-.images20 { background-image: url("./images/images0020.png"); }
+.images20 { background-image: url("./images/sprite.png");
+    background-position: -0px -1425px;
+    background-size: 100px 4500px!important; }
 
-.images21 { background-image: url("./images/images0021.png"); }
+.images21 { background-image: url("./images/sprite.png");
+    background-position: -0px -1500px;
+    background-size: 100px 4500px!important; }
 
-.images22 { background-image: url("./images/images0022.png"); }
+.images22 { background-image: url("./images/sprite.png");
+    background-position: -0px -1575px;
+    background-size: 100px 4500px!important; }
 
-.images23 { background-image: url("./images/images0023.png"); }
+.images23 { background-image: url("./images/sprite.png");
+    background-position: -0px -1650px;
+    background-size: 100px 4500px!important; }
 
-.images24 { background-image: url("./images/images0024.png"); }
+.images24 { background-image: url("./images/sprite.png");
+    background-position: -0px -1725px;
+    background-size: 100px 4500px!important; }
 
-.images25 { background-image: url("./images/images0025.png"); }
+.images25 { background-image: url("./images/sprite.png");
+    background-position: -0px -1800px;
+    background-size: 100px 4500px!important; }
 
-.images26 { background-image: url("./images/images0026.png"); }
+.images26 { background-image: url("./images/sprite.png");
+    background-position: -0px -1875px;
+    background-size: 100px 4500px!important; }
 
-.images27 { background-image: url("./images/images0027.png"); }
+.images27 { background-image: url("./images/sprite.png");
+    background-position: -0px -1950px;
+    background-size: 100px 4500px!important; }
 
-.images28 { background-image: url("./images/images0028.png"); }
+.images28 { background-image: url("./images/sprite.png");
+    background-position: -0px -2025px;
+    background-size: 100px 4500px!important; }
 
-.images29 { background-image: url("./images/images0029.png"); }
+.images29 { background-image: url("./images/sprite.png");
+    background-position: -0px -2100px;
+    background-size: 100px 4500px!important; }
 
-.images30 { background-image: url("./images/images0030.png"); }
+.images30 { background-image: url("./images/sprite.png");
+    background-position: -0px -2175px;
+    background-size: 100px 4500px!important; }
 
-.images31 { background-image: url("./images/images0031.png"); }
+.images31 { background-image: url("./images/sprite.png");
+    background-position: -0px -0px;
+    background-size: 100px 4500px!important; }
 
-.images32 { background-image: url("./images/images0032.png"); }
+.images32 { background-image: url("./images/sprite.png");
+    background-position: -0px -2325px;
+    background-size: 100px 4500px!important; }
 
-.images33 { background-image: url("./images/images0033.png"); }
+.images33 { background-image: url("./images/sprite.png");
+    background-position: -0px -2400px;
+    background-size: 100px 4500px!important; }
 
-.images34 { background-image: url("./images/images0034.png"); }
+.images34 { background-image: url("./images/sprite.png");
+    background-position: -0px -2475px;
+    background-size: 100px 4500px!important; }
 
-.images35 { background-image: url("./images/images0035.png"); }
+.images35 { background-image: url("./images/sprite.png");
+    background-position: -0px -2550px;
+    background-size: 100px 4500px!important; }
 
-.images36 { background-image: url("./images/images0036.png"); }
+.images36 { background-image: url("./images/sprite.png");
+    background-position: -0px -2625px;
+    background-size: 100px 4500px!important; }
 
-.images37 { background-image: url("./images/images0037.png"); }
+.images37 { background-image: url("./images/sprite.png");
+    background-position: -0px -2700px;
+    background-size: 100px 4500px!important; }
 
-.images38 { background-image: url("./images/images0038.png"); }
+.images38 { background-image: url("./images/sprite.png");
+    background-position: -0px -2775px;
+    background-size: 100px 4500px!important; }
 
-.images39 { background-image: url("./images/images0039.png"); }
+.images39 { background-image: url("./images/sprite.png");
+    background-position: -0px -2850px;
+    background-size: 100px 4500px!important; }
 
-.images40 { background-image: url("./images/images0040.png"); }
+.images40 { background-image: url("./images/sprite.png");
+    background-position: -0px -2925px;
+    background-size: 100px 4500px!important; }
 
-.images41 { background-image: url("./images/images0041.png"); }
+.images41 { background-image: url("./images/sprite.png");
+    background-position: -0px -3000px;
+    background-size: 100px 4500px!important; }
 
-.images42 { background-image: url("./images/images0042.png"); }
+.images42 { background-image: url("./images/sprite.png");
+    background-position: -0px -3075px;
+    background-size: 100px 4500px!important; }
 
-.images43 { background-image: url("./images/images0043.png"); }
+.images43 { background-image: url("./images/sprite.png");
+    background-position: -0px -3150px;
+    background-size: 100px 4500px!important; }
 
-.images44 { background-image: url("./images/images0044.png"); }
+.images44 { background-image: url("./images/sprite.png");
+    background-position: -0px -3225px;
+    background-size: 100px 4500px!important; }
 
-.images45 { background-image: url("./images/images0045.png"); }
+.images45 { background-image: url("./images/sprite.png");
+    background-position: -0px -3300px;
+    background-size: 100px 4500px!important; }
 
-.images46 { background-image: url("./images/images0046.png"); }
+.images46 { background-image: url("./images/sprite.png");
+    background-position: -0px -3375px;
+    background-size: 100px 4500px!important; }
 
-.images47 { background-image: url("./images/images0047.png"); }
+.images47 { background-image: url("./images/sprite.png");
+    background-position: -0px -3450px;
+    background-size: 100px 4500px!important; }
 
-.images48 { background-image: url("./images/images0048.png"); }
+.images48 { background-image: url("./images/sprite.png");
+    background-position: -0px -3525px;
+    background-size: 100px 4500px!important; }
 
-.images49 { background-image: url("./images/images0049.png"); }
+.images49 { background-image: url("./images/sprite.png");
+    background-position: -0px -3600px;
+    background-size: 100px 4500px!important; }
 
-.images50 { background-image: url("./images/images0050.png"); }
+.images50 { background-image: url("./images/sprite.png");
+    background-position: -0px -3675px;
+    background-size: 100px 4500px!important; }
 
-.images51 { background-image: url("./images/images0051.png"); }
+.images51 { background-image: url("./images/sprite.png");
+    background-position: -0px -3750px;
+    background-size: 100px 4500px!important; }
 
-.images52 { background-image: url("./images/images0052.png"); }
+.images52 { background-image: url("./images/sprite.png");
+    background-position: -0px -3825px;
+    background-size: 100px 4500px!important; }
 
-.images53 { background-image: url("./images/images0053.png"); }
+.images53 { background-image: url("./images/sprite.png");
+    background-position: -0px -3900px;
+    background-size: 100px 4500px!important; }
 
-.images54 { background-image: url("./images/images0054.png"); }
+.images54 { background-image: url("./images/sprite.png");
+    background-position: -0px -3975px;
+    background-size: 100px 4500px!important; }
 
-.images55 { background-image: url("./images/images0055.png"); }
+.images55 { background-image: url("./images/sprite.png");
+    background-position: -0px -4050px;
+    background-size: 100px 4500px!important; }
 
-.images56 { background-image: url("./images/images0056.png"); }
+.images56 { background-image: url("./images/sprite.png");
+    background-position: -0px -4125px;
+    background-size: 100px 4500px!important; }
 
-.images57 { background-image: url("./images/images0057.png"); }
+.images57 { background-image: url("./images/sprite.png");
+    background-position: -0px -4200px;
+    background-size: 100px 4500px!important; }
 
-.images58 { background-image: url("./images/images0058.png"); }
+.images58 { background-image: url("./images/sprite.png");
+    background-position: -0px -4275px;
+    background-size: 100px 4500px!important; }
 
-.images59 { background-image: url("./images/images0059.png"); }
+.images59 { background-image: url("./images/sprite.png");
+    background-position: -0px -4350px;
+    background-size: 100px 4500px!important; }
 
-.images60 { background-image: url("./images/images0060.png"); }
+.images60 { background-image: url("./images/sprite.png");
+    background-position: -0px -4425px;
+    background-size: 100px 4500px!important; }
 
 /*# sourceMappingURL=gen.css.map */
