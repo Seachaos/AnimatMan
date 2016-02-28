@@ -55,13 +55,15 @@ just using sprite image, and set width/height.
 Demo2:
 <div id="demo2" ></div>
 <script type="text/javascripts" >
-$.animatman($('#demo2'),
-  './TestSite/app/images/sprite_height_01.png',
-  '100',
-  '75', {
-      fps: 12
-  }
-)
+$(document).ready(function(){
+  $.animatman($('#demo2'),
+    './TestSite/app/images/sprite_height_01.png',
+    '100',
+    '75', {
+        fps: 12
+    }
+  );
+});
 </script>
 
 <pre><code>$.animatman($('#demo1'),
