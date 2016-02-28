@@ -1,0 +1,19 @@
+{
+  "name": "animat_man_test_site",
+  "version": "1.0.0",
+  "description": "a test for AnimatMan, use gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-changed": "^1.3.0",
+    "gulp-compass": "^2.1.0",
+    "gulp-imagemin": "^2.4.0",
+    "gulp-sprite-generator": "^0.2.3",
+    "gulp-webserver": "^0.9.1"
+  }
+}

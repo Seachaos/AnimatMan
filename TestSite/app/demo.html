@@ -1,0 +1,67 @@
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link href="css/gen.css" rel="stylesheet" type="text/css" />
+	<script type="text/javascript"src="./js/jquery_1.12.1.js" ></script>
+	<script type="text/javascript"src="./js/animatman.js" ></script>
+</head>
+<body>
+	<h1>AnimatMan DEMO</h1>
+	<hr />
+	Demo 1<br />
+	<div id="demo1" style="border:1px #000 solid; width:100px; height:100px; margin:10px;">
+	</div>
+	Demo 2<br />
+	<div id="demo2" style="border:1px #000 solid; width:100px; height:100px; margin:10px;">
+	</div>
+	Demo 3, Image from: <a href="https://github.com/blaiprat/jquery.animateSprite" target="_blank">https://github.com/blaiprat/jquery.animateSprite</a><br />
+	<div id="demo3" style="border:1px #000 solid; width:100px; height:100px; margin:10px;">
+	</div>
+	<div >
+	<pre style="border:1px #666 solid; padding:5px;" >
+		<code>
+$.animatman($('#demo1'),
+	'./images/sprite_width_01.png',
+	'75',
+	'100', {
+	})
+$.animatman($('#demo2'),
+	'./images/sprite_height_01.png',
+	'100',
+	'75', {
+		fps: 12
+	})
+$.animatman($('#demo3'),
+	'./images/ramonaflowers.png',
+	'125',
+	'180', {
+		fps: 12
+	})
+		</code>
+	</pre>
+	</div>
+	<script type="text/javascript">
+		$.animatman($('#demo1'),
+			'./images/sprite_width_01.png',
+			'75',
+			'100', {
+			})
+		$.animatman($('#demo2'),
+			'./images/sprite_height_01.png',
+			'100',
+			'75', {
+				fps: 12
+			})
+		$.animatman($('#demo3'),
+			'./images/ramonaflowers.png',
+			'125',
+			'180', {
+				fps: 12
+			})
+	</script>
+	<div style="display:none" >
+		<img src="./images/sprite_width_01.png" />
+		<img src="./images/sprite_height_01.png" />
+	</div>
+</body>
+</html>
